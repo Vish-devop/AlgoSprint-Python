@@ -26,3 +26,23 @@ Some Good Questions found over strings.
 12. Palindrome Partitioning: Given a string, determine all the possible palindrome partitioning of the string. For example, inputting "aab" should return [["a", "a", "b"], ["aa", "b"]].
 
 13. Minimum Cuts for Palindromes: Given a string, find the minimum number of cuts needed to partition the string into substrings, each of which is a palindrome.
+
+## ----------------------------------------------------------------
+1. Longest Substring Without Repeating Characters:
+
+2. Given a string, find the length of the longest substring without repeating characters.
+Anagrams:
+
+3. Given two strings, check if they are anagrams of each other (i.e., can be rearranged to form each other).
+String Compression:
+
+4. Implement a method to perform basic string compression using the counts of repeated characters. For example, the string "aabcccccaaa" would become "a2b1c5a3".
+Group Anagrams:
+
+5. Given an array of strings, group the anagrams together.
+Longest Palindromic Substring:
+
+6. Given a string, return the longest palindromic substring in it.
+Check if One String is Rotation of Another:
+
+7. Given two strings, check if one string is a rotation of the other (e.g., "waterbottle" is a rotation of "erbottlewat").
